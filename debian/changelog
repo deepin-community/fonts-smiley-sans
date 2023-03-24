@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-smiley-sans (1.1.1-0deepin) stable; urgency=medium
 
-  * Initial release
+  * new package
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- xiangzelong <xiangzelong@deepin.org>  Fri, 24 Mar 2023 13:36:24 +0800
