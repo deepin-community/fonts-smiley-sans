@@ -1,3 +1,9 @@
+fonts-smiley-sans (2.1.0-0deepin) stable; urgency=medium
+
+  * Update the package version to 2.1.0 
+
+ -- Aninana <kamizotoayaka@163.com>  Thu, 29 Feb 2024 17:22:36 +0800
+
 fonts-smiley-sans (1.1.1-0deepin) stable; urgency=medium
 
   * new package
